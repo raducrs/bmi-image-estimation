@@ -20,10 +20,11 @@ This repository contains a data collection project for using inmate mug photos. 
    -  class ```BMILocalDb``` - sqlite3 and file system wrapper, holds ```Person``` objects (including images)
    -  class ```ResponseStream``` - wrapper for handling image downloads
 `
+#### A collection of ~4000 images with biometric information are available in the [v1.0 release](https://github.com/raducrs/bmi-image-estimation/releases/tag/v1.0)
+
   
  ## IMDB 
 - ```Untitled.ipynb```
 
   Explores an IMDB dataset containing weight and height of celebrities
   
-## A collection of ~4000 images with biometric information are available in the [v1.0 release](https://github.com/raducrs/bmi-image-estimation/releases/tag/v1.0)
